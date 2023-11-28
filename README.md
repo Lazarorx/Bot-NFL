@@ -65,6 +65,7 @@ O que gostaria de saber hoje sobre a NFL?
 
 CO Pittsburgh Steelers e o New England Patriots estão empatados no topo da tabela com seis Super Bowls cada.
 
+Hospedagem do código: https://replit.com/@lazarorxavier/Chat-bot-NFL
 
 **Feedback**
 
